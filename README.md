@@ -1,3 +1,7 @@
+[![MasterHead](https://www.canva.com/design/DAEoYiKiOR8/share/preview?token=3gOUzwIN1wF59mY0chVolw&role=EDITOR&utm_content=DAEoYiKiOR8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)]
+
+
+
 <h1 align="center">Hello World 👋, I'm Sujitha Rasamsetty</h1>
 <h3 align="center">I am a practical knowledge seeker. To work in an environment where my skills and knowledge reflect the growth of the company and enhance my knowledge as well as experience. I am an entry level data scientist who loves to work on building models that can help translate data points into actionable business insights and I am now eager to apply the same to real-world business problems.</h3>
 
