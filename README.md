@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujitha Rasamsetty</h1>
+<h1 align="center">Hello World 👋, I'm Sujitha Rasamsetty</h1>
 <h3 align="center">I am a practical knowledge seeker. To work in an environment where my skills and knowledge reflect the growth of the company and enhance my knowledge as well as experience. I am an entry level data scientist who loves to work on building models that can help translate data points into actionable business insights and I am now eager to apply the same to real-world business problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitharasamsetty&label=Profile%20views&color=0e75b6&style=flat" alt="sujitharasamsetty" /> </p>
