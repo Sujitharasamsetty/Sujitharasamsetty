@@ -1,3 +1,5 @@
+![Photography Studio Etsy Banner (2)](https://user-images.githubusercontent.com/73248098/131993952-d130eb75-4655-484c-9315-c8fe1ad456fc.png)
+
 
 <h1 align="left">Hello World 👋, I'm Sujitha Rasamsetty and I am an Entry Level DataScientist</h1>
 <h2 align="left">"Happy To See Your Presence Here..!🤩🤩🤩</h2>
