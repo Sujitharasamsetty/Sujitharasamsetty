@@ -4,7 +4,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sujitharasamsetty&label=Profile%20Views&color=blueviolet&style=flat-square" alt="sujitharasamsetty" />
   <img src="https://img.shields.io/badge/Python-Expert-green?style=flat-square&logo=Python&logoColor=white" alt="Python Expert" />
-  <img src="https://img.shields.io/badge/Heroku-Learning-blueviolet?style=flat-square&logo=Heroku&logoColor=white" alt="Learning Heroku" />
+  <img src="https://img.shields.io/badge/Cypress-Learning-blueviolet?style=flat-square&logo=Heroku&logoColor=white" alt="Learning Cypress" />
 </p>
 
 <p align="center">
@@ -34,3 +34,4 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitharasam
+
