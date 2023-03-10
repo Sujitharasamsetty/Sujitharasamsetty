@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
+  <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQ0ZTg0MzY5MDhmMWVmOGQyZmMzMzRlMjcwYzdmOTQ2NTU0N2ZjZSZjdD1z/JTVWACMOESFcA1oewp/giphy.gif" />  
+
 </p>
 
 - 🔭 I’m currently working on **Data Science and Machine Learning Projects**
@@ -18,20 +19,36 @@
 - 📫 How to reach me: **sujitharasamsetty@gmail.com**
 - 😄 Pronouns: **She/Her**
 
+<h3 align="center">Skills</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=Python&logoColor=white" alt="Python Expert" />
+  <img src="https://img.shields.io/badge/NumPy-Expert-green?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Expert" />
+  <img src="https://img.shields.io/badge/Pandas-Expert-green?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Expert" />
+  <img src="https://img.shields.io/badge/Scikit--learn-Expert-green?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Expert" />
+  <img src="https://img.shields.io/badge/AWS-Intermediate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Intermediate" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-orange?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning Intermediate" />
+  <img src="https://img.shields.io/badge/SQL-Intermediate-orange?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL Intermediate" />
+  <img src="https://img.shields.io/badge/Git-Intermediate-orange?style=for-the-badge&logo=Git&logoColor=white" alt="Git Intermediate" />
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sujitharasamsetty" target="_blank"><img align="center" src="https://img.shields.io/badge/-Sujitha%20Rasamsetty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujitharasamsetty/" alt="Sujitha Rasamsetty LinkedIn Profile"/></a>
   <a href="https://twitter.com/sujitharasamsetty" target="_blank"><img align="center" src="https://img.shields.io/badge/-@sujitharasamsetty-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sujitharasamsetty" alt="Sujitha Rasamsetty Twitter Profile"/></a>
 </p>
 
+<!-- Top Languages Card -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitharasamsetty&hide=java&title_color=blueviolet&text_color=555&icon_color=blueviolet&bg_color=white" alt="Sujitha Rasamsetty GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitharasamsetty&hide=java&title_color=ff8c00&text_color=fff&icon_color=ff8c00&bg_color=0d1117" alt="Sujitha Rasamsetty GitHub Stats" />
 </p>
 
+<!-- GitHub Stats Card -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitharasamsetty&show_icons=true&line_height=27&count_private=true&title_color=blueviolet&text_color=555&icon_color=blueviolet&bg_color=white" alt="Sujitha Rasamsetty GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitharasamsetty&show_icons=true&line_height=27&count_private=true&title_color=ff8c00&text_color=fff&icon_color=ff8c00&bg_color=0d1117" alt="Sujitha Rasamsetty GitHub Stats" />
 </p>
 
+<!-- GitHub Streak Card -->
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitharasam
-
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitharasamsetty&theme=highcontrast" alt="Sujitha Rasamsetty GitHub Streak" />
+</p>
