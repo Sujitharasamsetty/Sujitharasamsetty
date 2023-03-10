@@ -1,31 +1,36 @@
-<h1 align="center">Hi 👋, I'm Sujitha Rasamsetty</h1>
-<h3 align="center">Data Science Enthusiastic</h3>
+<h1 align="center">Hi there 👋, I'm Sujitha Rasamsetty</h1>
+<h3 align="center">Data Science Enthusiast | Python Developer | Coffee Lover ☕</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitharasamsetty&label=Profile%20views&color=0e75b6&style=flat" alt="sujitharasamsetty" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sujitharasamsetty&label=Profile%20Views&color=blueviolet&style=flat-square" alt="sujitharasamsetty" />
+  <img src="https://img.shields.io/badge/Python-Expert-green?style=flat-square&logo=Python&logoColor=white" alt="Python Expert" />
+  <img src="https://img.shields.io/badge/Heroku-Learning-blueviolet?style=flat-square&logo=Heroku&logoColor=white" alt="Learning Heroku" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujitharasamsetty" alt="sujitharasamsetty" /></a> </p>
+<p align="center">
+  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
-- 🌱 I’m currently learning **Heroku**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sujitharasamsetty](https://github.com/Sujitharasamsetty)
-
-- 💬 Ask me about **Python,Machine Learning and Data Visualisation tools**
-
-- 📫 How to reach me **sujitharasamsetty@gmail.com**
-
-- ⚡ Fun fact **“One thing I cannot live without is Coffee 🤣”**
+- 🔭 I’m currently working on **Data Science and Machine Learning Projects**
+- 🌱 I’m currently learning **Deployment of Machine Learning models on Heroku**
+- 👯 I’m looking to collaborate on **Data Science Projects and Open Source Projects**
+- 💬 Ask me about **Python, Machine Learning, and Data Visualization**
+- 📫 How to reach me: **sujitharasamsetty@gmail.com**
+- 😄 Pronouns: **She/Her**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sujitha rasamsetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujitha rasamsetty" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sujitharasamsetty" target="_blank"><img align="center" src="https://img.shields.io/badge/-Sujitha%20Rasamsetty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujitharasamsetty/" alt="Sujitha Rasamsetty LinkedIn Profile"/></a>
+  <a href="https://twitter.com/sujitharasamsetty" target="_blank"><img align="center" src="https://img.shields.io/badge/-@sujitharasamsetty-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sujitharasamsetty" alt="Sujitha Rasamsetty Twitter Profile"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitharasamsetty&show_icons=true&locale=en&layout=compact" alt="sujitharasamsetty" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitharasamsetty&hide=java&title_color=blueviolet&text_color=555&icon_color=blueviolet&bg_color=white" alt="Sujitha Rasamsetty GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitharasamsetty&show_icons=true&locale=en" alt="sujitharasamsetty" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitharasamsetty&show_icons=true&line_height=27&count_private=true&title_color=blueviolet&text_color=555&icon_color=blueviolet&bg_color=white" alt="Sujitha Rasamsetty GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitharasamsetty&" alt="sujitharasamsetty" /></p>
-
-
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitharasam
