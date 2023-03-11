@@ -36,7 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sujitharasamsetty" target="_blank"><img align="center" src="https://img.shields.io/badge/-Sujitha%20Rasamsetty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujitharasamsetty/" alt="Sujitha Rasamsetty LinkedIn Profile"/></a>
-  <a href="https://twitter.com/sujitharasamsetty" target="_blank"><img align="center" src="https://img.shields.io/badge/-@sujitharasamsetty-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sujitharasamsetty" alt="Sujitha Rasamsetty Twitter Profile"/></a>
+  <a href="https://twitter.com/RASAMSETTYSUJI1" target="_blank"><img align="center" src="https://img.shields.io/badge/-Sujitha Rasamsetty-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sujitharasamsetty" alt="Sujitha Rasamsetty Twitter Profile"/></a>
 </p>
 
 <!-- Top Languages Card -->
