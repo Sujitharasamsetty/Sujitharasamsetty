@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sujitha Rasamsetty</h1>
-<h3 align="center">Data Science Enthusiast | Python Developer | Coffee Lover ☕</h3>
+<h3 align="center">AI/ML Engineer| AWS Certified Solutions Architect | Coffee Lover ☕</h3>
 
 
 <p align="left">
